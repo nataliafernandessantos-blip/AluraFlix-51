@@ -1,0 +1,28 @@
+body{
+    background-color: blueviolet;
+    color:black;
+    font-display:  ;
+    margin: 0px;
+}
+h1{
+
+    color: rgb(158, 125, 189);
+    font-size: 40px;
+
+}
+p{
+    font-size: 25px;
+}
+header{
+    border-bottom: solid 3x rgba(208, 136, 235, 0.74);
+    margin: 2px;
+    padding: 10px;
+    color: black;
+}
+.chamada{
+    background: rgb(255, 229, 234);
+    padding-bottom: 80px;
+    padding-top: 80px;
+    display: flex;
+    justify-content: center;
+}
