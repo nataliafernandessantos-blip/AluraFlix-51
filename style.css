@@ -1,7 +1,7 @@
 body {
     background-color: blueviolet;
     color: black;
-    font-display: ;
+    font-display: auto ;
     margin: 0px;
 }
 
@@ -50,11 +50,11 @@ img {
     scroll-behavior: smooth;
 }
 
-.categoria-video::-webkit-scrollbar[ {
+.categoria-video::-webkit-scrollbar{
     height: 8px;
 }
 
-] .categoria-video::-webkit-scrollbar-thumb {
+.categoria-video::-webkit-scrollbar-thumb {
     background-color: rgb(78, 53, 101);
     border-radius: 4px;
 }
